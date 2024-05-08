@@ -1,1 +1,19 @@
-
+data:
+  env: dev
+  ads:
+    home-banner: ca-app-pub-1790274229955400/7885811336
+    game-banner: ca-app-pub-1790274229955400/4904091634
+    complete-banner: ca-app-pub-1790274229955400/4373608594
+    complete-interstitial: ca-app-pub-1790274229955400/3024033755
+    complete-reward: ca-app-pub-1790274229955400/7071423114
+    random-interstitial: ca-app-pub-1790274229955400/3829934686
+  common:
+    once: erwerwre2432342sdadsf
+    privacyPolicyUrl: https://www.mobile7tech.com/aipuzzles/privacy_policy.html
+    email: yamistore6@gmail.com
+    powerIncreaseDuration: 1800
+    maxPowerCount: 5
+    replayUseCoins: 1000
+    autoCompleteUseCoins: 5000
+    unlockBgUseCoins: 2000
+    addPowerUseCoins: 5000
